@@ -1,0 +1,67 @@
+{
+    "nodeList": [
+        {
+            "text": "你好啊",
+            "name": "A",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        },
+        {
+            "text": "我不好，你呢？",
+            "name": "B",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        },
+        {
+            "text": "我也不好",
+            "name": "A",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        },
+        {
+            "text": "火锅不错，去哪里？",
+            "name": "B",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        },
+        {
+            "text": "就去那家新开的吧。",
+            "name": "A",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        },
+        {
+            "text": "好的，走吧。",
+            "name": "B",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        },
+        {
+            "text": "出发！",
+            "name": "A",
+            "actionEvent": {
+                "m_PersistentCalls": {
+                    "m_Calls": []
+                }
+            }
+        }
+    ]
+}

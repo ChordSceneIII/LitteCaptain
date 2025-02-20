@@ -1,0 +1,208 @@
+{
+    "savename": "save01",
+    "fight_limitcount": 5,
+    "point": 5,
+    "map_info": {
+        "_mask_seed": "哎哟你干嘛",
+        "_level_sum": 10,
+        "_visited_nids": [
+            2,
+            6,
+            13
+        ]
+    },
+    "propdata": {
+        "slot_count": 28,
+        "locked_Index": [],
+        "items": [
+            {
+                "type": 0,
+                "slotindex": 0,
+                "count": 87
+            },
+            {
+                "type": 1,
+                "slotindex": 1,
+                "count": 3
+            },
+            {
+                "type": 2,
+                "slotindex": 2,
+                "count": 3
+            },
+            {
+                "type": 3,
+                "slotindex": 3,
+                "count": 4
+            }
+        ]
+    },
+    "characterdata": {
+        "slot_count": 10,
+        "locked_Index": [],
+        "items": [
+            {
+                "type": 0,
+                "slotindex": 0,
+                "count": 1,
+                "customName": "Koko",
+                "maxhp": 20,
+                "_curhp": 20,
+                "attack": 5,
+                "power": 16,
+                "weight": 2.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": true
+            },
+            {
+                "type": 1,
+                "slotindex": 1,
+                "count": 1,
+                "customName": "Didi",
+                "maxhp": 10,
+                "_curhp": 10,
+                "attack": 4,
+                "power": 8,
+                "weight": 1.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": true
+            },
+            {
+                "type": 2,
+                "slotindex": 2,
+                "count": 1,
+                "customName": "Juju",
+                "maxhp": 8,
+                "_curhp": 8,
+                "attack": 9,
+                "power": 6,
+                "weight": 1.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": true
+            },
+            {
+                "type": 3,
+                "slotindex": 3,
+                "count": 1,
+                "customName": "Chuchu",
+                "maxhp": 15,
+                "_curhp": 15,
+                "attack": 4,
+                "power": 10,
+                "weight": 1.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": true
+            },
+            {
+                "type": 4,
+                "slotindex": 4,
+                "count": 1,
+                "customName": "Bibi",
+                "maxhp": 16,
+                "_curhp": 16,
+                "attack": 6,
+                "power": 12,
+                "weight": 2.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": true
+            },
+            {
+                "type": 5,
+                "slotindex": 5,
+                "count": 1,
+                "customName": "Zuzu",
+                "maxhp": 8,
+                "_curhp": 8,
+                "attack": 2,
+                "power": 8,
+                "weight": 1.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": true
+            },
+            {
+                "type": 6,
+                "slotindex": 6,
+                "count": 1,
+                "customName": "Koko",
+                "maxhp": 6,
+                "_curhp": 6,
+                "attack": 15,
+                "power": 10,
+                "weight": 1.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": false
+            },
+            {
+                "type": 7,
+                "slotindex": 7,
+                "count": 1,
+                "customName": "Fafa",
+                "maxhp": 40,
+                "_curhp": 40,
+                "attack": 0,
+                "power": 0,
+                "weight": 3.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": false
+            },
+            {
+                "type": 8,
+                "slotindex": 8,
+                "count": 1,
+                "customName": "Koko",
+                "maxhp": 16,
+                "_curhp": 16,
+                "attack": 5,
+                "power": 12,
+                "weight": 1.0,
+                "exp": 0,
+                "position": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "curlevel": 0,
+                "isFight": false
+            }
+        ]
+    }
+}
